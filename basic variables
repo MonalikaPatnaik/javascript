@@ -1,0 +1,12 @@
+1. It is a case sensitive language!!
+2 var variable is depreciated because it does not give an error whenever you redeclare as well as chnage its value..
+it can do var x=9;
+var x=4; or x=4;
+
+3. let gives error on redeclaration of variable however you can change its value
+4.  typeof var--number,string,bool
+"5"+4=54
+"5"-4=1
+"yes"*8= NAN(Not a number)
+7+true=8
+6.  const will give you error on both redeclaration as well whenever u change its value!!
